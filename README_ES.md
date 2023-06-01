@@ -42,4 +42,3 @@ Un área en la que he experimentado un crecimiento significativo es en la compre
 
 En general, este bootcamp ha sido una experiencia enriquecedora que ha ampliado mis conocimientos y habilidades en ciberseguridad. Estoy deseando aplicar lo que he aprendido a futuros proyectos y retos en este fascinante campo.
 
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
