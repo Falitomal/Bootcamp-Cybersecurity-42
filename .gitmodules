@@ -1,0 +1,27 @@
+[submodule "inquisitor"]
+	path = inquisitor
+	url = https://github.com/Falitomal/inquisitor.git
+[submodule "recovery"]
+	path = recovery
+	url = https://github.com/Falitomal/recovery.git
+[submodule "tsunami"]
+	path = tsunami
+	url = https://github.com/Falitomal/tsunami.git
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/Falitomal/ft_blockchain.git
+[submodule "stockholm"]
+	path = stockholm
+	url = https://github.com/Falitomal/ft_stockholm.git
+[submodule "coRSAir"]
+	path = coRSAir
+	url = https://github.com/Falitomal/corsair.git
+[submodule "onion"]
+	path = onion
+	url = https://github.com/Falitomal/ft_onion.git
+[submodule "otp"]
+	path = otp
+	url = https://github.com/Falitomal/ft_otp.git
+[submodule "arachnida"]
+	path = arachnida
+	url = https://github.com/Falitomal/Arachnida.git
