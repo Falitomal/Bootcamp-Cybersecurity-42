@@ -21,7 +21,9 @@ Personally, I have been looking forward to this course all year and it was my ma
 
 |  Project | Subject                |       Score      |
 |:-------------:|:--------------- |:----------------:|
-|   arachnida   | Web Scrapping & EXIF data       |   **100** / 100  |
+|   Python0   | Different intermediate Python projects       |   **100** / 100  |
+|   Python1   | Advanced Python projects      |   **100** / 100  |
+|   Python2   | Some Advabced Python projects       |   **100** / 100  |
 |   coRSAir   | Cryptography & Vulnerable Ciphers    |   **100** / 100  |
 |ft_blockchain   | Proof-of-work algorithm            |   **110** / 100  |
 |   ft_onion    | Web server with Docker that shows a webpage on the Tor network     |   **125** / 100  |
@@ -29,14 +31,14 @@ Personally, I have been looking forward to this course all year and it was my ma
 |    tsunami    | Buffer overflows and shellcode on Windows XP         |   **100** / 100  |
 |   stockholm   | Program that simulates the WannaCry ransomware   |   **100** / 100  |
 |  recovery|  Recovery system info on Windows 10 |   **115** / 100  |
-|   iron_dome   |  Daemon service to monitoring illegal activity on Linux |   inprogress / 100  |
+|   iron_dome   |  Daemon service to monitoring illegal activity on Linux |   **125** / 100  |
 |  inquisitor|  ARP spoofing with docker containers  |   **100** / 100  |
-|  vaccine| SQL injection  |   inprogress / 100  |
+|  vaccine| SQL injection  |   **100** / 100  |
 
 <p></p>
 
-Thanks to this bootcamp, I have gained a wealth of knowledge in various areas of cybersecurity. Throughout the program, I have had the opportunity to learn about Docker, which has allowed me to understand how to efficiently create and manage development environments. Additionally, I have deepened my skills in Python and learned to automate functions, enhancing my productivity and efficiency in developing security solutions.
+Thanks to this bootcamp, I have gained a lot of knowledge in various areas of cybersecurity. Throughout the bootcamp I have increased my knowledge of Docker, which has allowed me to understand how to create and manage development environments efficiently. I have deepened my Python skills and now I consider myself an expert being able to develop whatever I set my mind to and I have learned to automate functions, improving my productivity and efficiency in developing security solutions.
 
-One area in which I have experienced significant growth is in understanding vulnerabilities and the different branches of cybersecurity. Through practical exercises and case studies, I have gained hands-on experience in identifying and remedying vulnerabilities in systems and networks, as well as analyzing malware and applying forensic techniques.
+I consider that this bootcamp I have significantly progressed the understanding of vulnerabilities and the different branches of cybersecurity, also I have done several projects with great colleagues, great in every way. Through different projects, I have gained hands-on experience in identifying and solving vulnerabilities in systems and networks, as well as malware analysis and the application of forensic techniques.
 
-Overall, this bootcamp has been an enriching experience that has expanded my knowledge and skills in cybersecurity. I am excited to apply what I have learned to future projects and challenges in this fascinating field.
+Overall, this bootcamp has been an enriching experience that has broadened my knowledge and skills in cybersecurity. I look forward to applying what I have learned to future projects.
