@@ -25,3 +25,6 @@
 [submodule "arachnida"]
 	path = arachnida
 	url = https://github.com/Falitomal/Arachnida.git
+[submodule "Extraction"]
+	path = Extraction
+	url = https://github.com/Falitomal/Extraction.git
